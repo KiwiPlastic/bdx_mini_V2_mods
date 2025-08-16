@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cd /home/richn/Open_Duck_Mini_Runtime/scripts
+
+workon open-duck-mini-runtime
+
+ls
+
