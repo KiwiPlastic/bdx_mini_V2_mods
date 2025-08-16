@@ -17,10 +17,5 @@ Four file have been modified to make this work
 - xboxcontroler.py
 - head_puppet.py
 
-xboxcontroler.py now reads all xbox button and the dpad. It will print out any button presses. combos can be 
+xboxcontroler.py now reads all xbox buttons and the dpad. It will print out any button presses. combos can be trap
 
-- Michel Aractingi
-- Mankaran Singh
-- Steve N'Guyen
-- Pierre Rouanet
-- Thomas Wolf
